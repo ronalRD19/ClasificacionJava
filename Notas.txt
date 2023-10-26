@@ -1,0 +1,56 @@
+/*
+//Presiona ALT + 123 (teclado numérico) para la llave de apertura.
+
+//Presiona ALT + 125 (teclado numérico) para la llave de cierre.
+
+// Presiona ALT + 91 [ para el corchetejy presiona ALT + 93 para el corchete de cierre ]
+
+//UN ARCHIVO DE CLASE DEBE TENER EL NOMBRE DEL ARCHIVO EXACTAMENTE IDENTICO A LA CLASE
+
+//Al analizar un problema, generalmente los sustantivos son clases u objetos, los adjetivos son variables o atributos y los verbos o accciones son metodos o funciones. 
+
+// Esta jerarquía de clases me sirve para representar la abstracción de los animales, una superclase que contiene a las otras clases y les hereda sus atributos. En Java se hereda con la palabra "extends" 
+
+Todo lo trabajado en el dia de ayer se puede llevar a un nivel más alto de abstracción.
+
+TipoNacimiento EN JAVA FUNCIONA PERO ES INCORRECTO EN EL STANDAR DE LA SINTAXIS JAVA 
+
+para Java, todas las variables o atributos deben  iniciar en minuscula. 
+
+para Java, todos los metodos o funciones deben iniciar en minusculas, las parabras intermedias con Mayuscula. 
+
+Cuando se usan varia palabras para Java, pueden estar unidas mientras inicien minúscula y las intermedias sean mayusculas otra opcion para Java es usar minúsculas separando las palabras con guion bajo. 
+
+tipo_nacimiento CORRECTO. 
+tipo-nacimiento INCORRECTO.  
+
+Todos los codigo o archivos en .java son codigo fuente (source code) NO LOS PUEDO EJECUTAR DIRECTAMENTE REQUIEREN DEL PROCESO DE COMPILACIÓN con el java compiles que es el comando javac. 
+
+
+
+/* Java tiene un modelo para que se pueda acceder a los objetos y visualizar sus datos este modelo implica que la clase que hace de vitrina implemente un método especial que se llama main. TODAS LAS CLASES QUE UTILIZAN EL METODO MAIN DEBEN INICIAR EN SU DECLARACIÓN COMO PUBLICAS 
+
+public class NombreDeLaClase
+
+Instancia -> Es como si una clase tuviera un hijo "dar a luz un objeto" 
+
+hay un método que me permite exponer datos a través de la consola 
+
+// El paradigma orientado a objetos que se conoce como programación orientada a objetos POO plantea la comprensión y la ventaja de ver el mundo desde las perspectiva de que todo lo que existe es una cosa o objeto 
+ 
+De este paradigma serguen algunas ventajas respecto a los otros modelos de programación. 
+
+1- Herencia: 
+Clase tiene unos atributos y metodos, se los puede heredar a sus clases u objetos hijos en este caso Animal tiene sus atributos y todas aquellas clases como Mamifero, Pez, Anfibio, Reptil, Ave, al ser clases hijas de Animal TAMBIEN TIENEN SUS ATRIBUTOS Y SUS METODOS -> HERENCIA. 
+
+2-Polimorfismo:
+Me permite tener en el mismo código, diversas representaciones que me pueden ser de utilidad de acuerdo a mi necesidad o al contexto especifico del problema a solucionar, por ejemplo vehiculo tiene varias formas como carro, moto, bus etc. 
+
+3- Encapsulamiento: 
+Significa esconder la implementación (ABSTRACCIÓN) de tal manera que se simplifique la estructura del código. 
+
+Para acceder a los atributos de una clase, debería poder utilizar metodos accesores y no tratar de referenciar directamente las variables. 
+
+//método accesor para obtener un atributo de una clase //El estandar de Java plantea que se utilice la preposición getNombreAtributo() 
+
+*/
